@@ -17,7 +17,7 @@
 
 ## Output folders
 
-- `figures/` — figures for the report: `fig1`–`fig6` match Figures 1–6 in the Milestone One draft.
+- `figures/` — figures for the report: `fig1`–`fig6` match Figures 1–6 in the Milestone One report.
 - `results/` — CSV and parquet files of the metrics and test-set scores.
 
 ## Runtime
@@ -31,6 +31,6 @@ Approximate. It depends on cores and memory; the full CSV needs about 4–6 GB o
 
 To make every notebook run faster, lower `N_MODEL` in Week 1 (default 200,000), then rerun Weeks 2–6.
 
-## Conclusions
+## Conclusions and sources
 
-The "Conclusions — write after running" cell at the end of each notebook lists what to look for. Write those conclusions from your own outputs.
+Each notebook ends with written conclusions drawn from its own outputs, followed by the high-quality source used for that week's topic (also shared on Yellowdig). The Milestone One report summarizes these results; every number in it comes from these saved outputs.
