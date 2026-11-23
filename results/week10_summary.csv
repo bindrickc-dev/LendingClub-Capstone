@@ -1,0 +1,15 @@
+,0
+k,2
+silhouette,0.15118659938235332
+silhouette_k2,0.15118659938235332
+best_silhouette_k,2
+ARI across 5 seeds (mean),0.9920613592880347
+ARI across 5 seeds (min),0.9887993117108878
+ARI half A vs half B,0.9771528109230135
+sil_euclidean,0.15119569608804828
+sil_manhattan,0.1689129562878898
+sil_cosine,0.25616247921641033
+lr_auc_base,0.683882394625012
+lr_auc_clusters,0.6838414292122621
+raw_var_share_top,loan_amnt
+raw_var_share,0.9999712025407649

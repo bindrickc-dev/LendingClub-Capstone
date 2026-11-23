@@ -1,0 +1,17 @@
+,0
+best_k,1501
+best_metric,manhattan
+cv_auc,0.6795557878084496
+threshold,0.14656895403064624
+knn_test_pred_seconds,40.43775415420532
+cv_seconds_euclidean,27.17365312576294
+cv_seconds_manhattan,48.58207631111145
+cv_seconds_cosine,35.00916576385498
+scale_raw units_k15,0.5623961665689273
+scale_raw units_k51,0.5844747182824094
+scale_raw units_k201,0.5757817246138124
+scale_standardized_k15,0.6254818125792303
+scale_standardized_k51,0.6568967257901963
+scale_standardized_k201,0.6708123369303756
+concentration_all features,0.1623775830855484
+concentration_core features,0.047262088058844964
