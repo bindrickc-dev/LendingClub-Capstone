@@ -1,0 +1,33 @@
+,0
+min_samples,24.0
+knee_eps,2.7427519197980246
+db_clusters,1.0
+db_noise_share,0.0149
+db_largest_share,0.9851
+rate_noise,0.174496644295302
+rate_clustered,0.14592427164754848
+n_noise,298.0
+ward_euclidean_ARI vs K-Means,0.40390030556801604
+ward_euclidean_largest cluster share,0.6256
+ward_euclidean_cophenetic corr.,0.3113706430937411
+ward_euclidean_silhouette,0.12044557404419438
+complete_euclidean_ARI vs K-Means,0.005654078344455498
+complete_euclidean_largest cluster share,0.9894
+complete_euclidean_cophenetic corr.,0.43487394359709186
+complete_euclidean_silhouette,0.34228758490974753
+average_euclidean_ARI vs K-Means,0.000308531892569892
+average_euclidean_largest cluster share,0.9994
+average_euclidean_cophenetic corr.,0.6753516387935887
+average_euclidean_silhouette,0.5507464880081118
+single_euclidean_ARI vs K-Means,0.00010252602011738642
+single_euclidean_largest cluster share,0.9998
+single_euclidean_cophenetic corr.,0.6853841256933425
+single_euclidean_silhouette,0.5410331139870171
+average_cityblock_ARI vs K-Means,0.000308531892569892
+average_cityblock_largest cluster share,0.9994
+average_cityblock_cophenetic corr.,0.6088934115441099
+average_cityblock_silhouette,0.5507464880081118
+average_cosine_ARI vs K-Means,0.45985622128725767
+average_cosine_largest cluster share,0.598
+average_cosine_cophenetic corr.,0.45561948896847115
+average_cosine_silhouette,0.12011709948634373

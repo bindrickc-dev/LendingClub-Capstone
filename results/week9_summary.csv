@@ -1,0 +1,16 @@
+,0
+best_params,"{'l2_regularization': np.float64(0.020237789540485076), 'learning_rate': np.float64(0.06960091021987622), 'max_depth': 5, 'max_features': 0.5, 'max_leaf_nodes': 15, 'min_samples_leaf': 1000}"
+n_trees,219
+cv_auc,0.687800649072665
+train_auc,0.7106752142154584
+oof_auc,0.6886559170855313
+test_auc,0.6891554046935959
+test_ap,0.26709293056472366
+threshold,0.1696837123695565
+flag_share,0.3495333333333333
+n_flagged,20972
+auc_diff_vs_lr,0.007016550140288236
+ci_lo,0.005236883168092357
+ci_hi,0.008717471650529988
+auc_no_lc,0.6756982759831585
+auc_lc_only,0.6647051940418793
